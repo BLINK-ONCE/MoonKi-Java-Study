@@ -8,10 +8,10 @@ talk about code convention
 ## 예정
 ### 할 일
 - [x] git bash
-- [ ] github 회원가입
-- [ ] remote repos와 local repos생성하기
+- [x] github 회원가입
+- [x] remote repos와 local repos생성하기
 - [ ] git 구조
-- [ ] commit, push
+- [x] commit, push
 - [ ] commit 예시.(기능단위 커밋)
 
 
